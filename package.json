@@ -1,0 +1,16 @@
+{
+  "name": "multi_test",
+  "version": "1.0.0",
+  "description": "a test server for the multi_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit ",
+    "start": "node index.js"
+  },
+  "author": "Ben Lowery <ben@blowery.org> (http://b19y.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
